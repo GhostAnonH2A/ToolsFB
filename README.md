@@ -1,11 +1,4 @@
 # ToolsFB
-
-====================================
-# Coded By	 : Ghost@AnonH2A
-# Thank   	 : Anonymous Indonesia ~ 
-#	  	 : Black Demonstartion Cyber
-# Special Thank  : Thnk To All :)
-====================================
 ++++++++= How To Install =++++++++
 ====================================
 --> Linux <--
