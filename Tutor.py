@@ -1,4 +1,4 @@
-# Keren Kan print semua :V makanya harus cerdas ;V
+# Bawa Enjoy Aja :)
 print('===========================================')
 print('+              #ToolsFB#                  +')
 print('===========================================')
